@@ -1,15 +1,12 @@
 {
   "name": "react-calendar",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "React.js Calendar component",
   "keywords": [
     "react",
     "calendar",
     "react-component"
   ],
-  "dependencies": {
-    "jquery": "*"
-  },
   "devDependencies": {
     "babel-preset-react": "^6.3.13"
   },
