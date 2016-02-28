@@ -9,7 +9,7 @@ $ npm install react-kalendar
 http://zinoui.com/blog/react-calendar-component
 
 ### Version
-0.0.1
+0.1.1
 
 ### License
 React calendar component is licensed under the MIT license.
