@@ -1,5 +1,5 @@
 /**
- * React Calendar Component v0.0.1
+ * React Calendar Component v0.1.0
  *
  * Copyright 2016, Dimitar Ivanov
  *
@@ -217,12 +217,11 @@ var MonthDates = React.createClass({
 
 ReactDOM.render(
     React.createElement(Calendar, {
-        onSelect: function (state) {
+        //onSelect: function (state) {
             //console.log(this, state);
-        },
+        //},
         //disablePast: true,
-        minDate: new Date(2016, 1, 15)
-
+        //minDate: new Date(2016, 2, 28)
     }),
     document.getElementById("calendar")
 );
