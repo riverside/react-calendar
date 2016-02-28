@@ -3,7 +3,7 @@ React calendar component is a simple React component which render a calendar wit
 
 ### Installation
 ```sh
-$ npm install react-calendar
+$ npm install react-kalendar
 ```
 ### Demo
 http://zinoui.com/blog/react-calendar-component
